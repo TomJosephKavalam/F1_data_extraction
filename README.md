@@ -6,5 +6,6 @@ scraping_years.py
 ```
 file. It will extract all information from the [racing statistics website](https://www.racing-statistics.com/en/seasons). 
 
-The data for each season will be extracted in the form of 
+The data for each season will be extracted in the following  form of 
+
 ![Sample_csv](https://user-images.githubusercontent.com/83763544/209646489-95b23af2-5e79-4aa1-8ed1-3aafe58418a3.png)
