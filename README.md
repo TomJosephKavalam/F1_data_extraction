@@ -4,4 +4,4 @@ The below code was used to extract all positions of all the races from 1950 till
 ```sh
 scraping_years.py
 ```
-file. It will extract all information from the [racing statistics website](https://www.racing-statistics.com/en/seasons) 
+file. It will extract all information from the [racing statistics website](https://www.racing-statistics.com/en/seasons). 
